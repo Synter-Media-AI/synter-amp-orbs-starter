@@ -1,0 +1,7 @@
+{
+  "synter": {
+    "command": "npx",
+    "args": ["-y", "@synterai/mcp-server"],
+    "env": { "SYNTER_API_KEY": "${SYNTER_API_KEY}" }
+  }
+}
